@@ -1,0 +1,22 @@
+body {
+    background-color: thistle;
+    text-align: center
+}
+di{
+margin-top: 15px;
+}
+img{
+    height:300px;
+    width:35%;
+}
+h2{
+    font-family: 'Courgette', cursive;
+}
+.image-section{
+    display:flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+}
